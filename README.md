@@ -28,13 +28,16 @@ Git · GitHub · REST APIs · Postman · Vercel · Netlify · Render
 
 ---
 
-## 💼 Projects Highlights
+## 💼 Project Highlights
 
-### 🔥 **[Ai-Interview](https://interview-app-ai.onrender.com/)**
-This website leverages AI (powered by Gemini) to help users learn any topic they choose.
-🔗 **Live Demo:** https://interview-app-ai.onrender.com/
+### 🔥 **[AI Interview Platform](https://interview-app-ai.onrender.com/)**
+An AI-powered web application that helps users learn and prepare for interviews on any chosen topic.  
+The platform leverages **Gemini AI** to generate intelligent, contextual questions and responses, creating an interactive and personalized learning experience.
 
-**Tech:** `React` `Node.js` `MongoDB`
+🔗 **Live Demo:** https://interview-app-ai.onrender.com  
+
+**Tech Stack:** `React` · `Node.js` · `MongoDB`
+
 
 ---
 
