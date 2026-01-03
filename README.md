@@ -61,7 +61,6 @@ Next.js (SSR) based application with MongoDB and scalable architecture.
 📍 Bengaluru, India  
 💼 [LinkedIn](https://linkedin.com/in/mohan-a-0435a338b) 
 ｘ [X](https://x.com/MohanA277916531)
-
 Email → the.mohan@gmail.com 
 
 ---
