@@ -1,16 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Mohan+A;Full-Stack+Developer;MERN+Stack+Developer" />
-</p>
+# 👋 Hi, I’m Mohan A  
+### 👨‍💻 MERN Stack Developer | React Native Developer
 
-
-
----
-
-## 👋 About
-
-Full-Stack Developer focused on building **scalable, performant, and clean web applications**.  
-Strong MERN foundation with hands-on experience in modern frontend and backend systems.  
-Always learning. Always shipping.
+⚡I’m a passionate developer with experience in building **user-friendly applications**. I enjoy working with modern technologies and solving challenging problems.  
+Currently working on **Full-Stack AI UI/UX Generator** and continuously improving my skills.
 
 ---
 
@@ -26,32 +18,23 @@ Node.js · Express.js
 MongoDB · MySQL · PostgreSQL  
 
 **Tools**  
-Git · GitHub · REST APIs · Postman · Vercel · Netlify · Render  
+Git · GitHub · REST APIs · Postman · Vercel · Netlify · Render 
 
 ---
 
-## 🚀 Selected Projects
-
-**Full-Stack Blog Platform**  
-MERN application with authentication, authorization, and CRUD operations.
-
-**E-commerce Platform**  
-Next.js (SSR) based application with MongoDB and scalable architecture.
+## 📈 GitHub Stats
+![Mohandev2004’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohandev2004&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohandev2004&layout=compact&theme=radical)
 
 ---
 
-## 📊 GitHub Activity
+## 💼 Projects Highlights
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Mohandev2004&show_icons=true&count_private=true&hide_border=true"
-    height="160"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=Mohandev2004&hide_border=true"
-    height="160"
-  />
-</p>
+### 🔥 **[Ai-Interview](https://interview-app-ai.onrender.com/)**
+This website leverages AI (powered by Gemini) to help users learn any topic they choose.
+🔗 **Live Demo:** https://interview-app-ai.onrender.com/
+
+**Tech:** `React` `Node.js` `MongoDB`
 
 ---
 
@@ -60,7 +43,8 @@ Next.js (SSR) based application with MongoDB and scalable architecture.
 📍 Bengaluru, India  
 💼 [LinkedIn](https://linkedin.com/in/mohan-a-0435a338b)  
 ｘ [X](https://x.com/MohanA277916531)  
-✉️ Email → the.mohan@gmail.com  
+✉️ Email: the.mohan@gmail.com  
 
+---
 
 > _“Code is craft. I treat it that way.”_
