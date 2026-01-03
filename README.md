@@ -1,42 +1,55 @@
-# 👋 Hi, I'm Mohan A
+👋 Hello, I'm Mohan A  
+Full-Stack Developer | MERN Stack Developer
 
-Welcome to my GitHub! I'm a passionate Full-Stack Developer with a strong foundation in modern web technologies. I love building scalable web applications and continually learning new tools and frameworks.
+🌱 Passionate about building scalable, clean, and high-performance web applications.  
+⚡ Experienced with modern frontend & backend technologies and always eager to learn more.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Frontend
-- React.js (with Hooks and Context)
-- Next.js (Full-Stack & SSR)
-- HTML5, CSS3, JavaScript (ES6+)
-- Tailwind CSS, Bootstrap
+**Frontend**  
+⚛️ React.js · ⏭️ Next.js · 🧩 HTML5 · 🎨 CSS3 · 🟨 JavaScript (ES6+)  
+💨 Tailwind CSS · 🅱️ Bootstrap  
 
-### 🖥 Backend
-- Node.js
-- Express.js
+**Backend**  
+🟢 Node.js · 🚂 Express.js  
 
-### 🗄 Databases
-- MongoDB (Mongoose)
-- SQL (MySQL, PostgreSQL)
+**Databases**  
+🍃 MongoDB · 🐬 MySQL · 🐘 PostgreSQL  
 
-### 🌐 Other Tools
-- Git & GitHub
-- RESTful APIs
-- Postman
-- Vercel, Netlify, Render
+**Tools & Platforms**  
+🐙 Git · GitHub · 🔌 REST APIs · 📮 Postman  
+▲ Vercel · 🌐 Netlify · 🚀 Render  
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-Here are a few highlights of what I've built (more in my repositories):
+### 📝 Full-Stack Blog Application  
+A MERN stack blog platform featuring authentication, authorization, and complete CRUD functionality.
 
-- **Full-Stack Blog App** – MERN stack application with authentication and CRUD features.
-- **E-commerce Platform** – Next.js frontend with server-side rendering and MongoDB
+### 🛒 E-commerce Platform  
+A full-stack e-commerce application built with **Next.js (SSR)** and **MongoDB**, focused on performance and scalability.
 
+---
 
-<!---
-Mohandev2004/Mohandev2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohandev2004&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohandev2004&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+📍 India  
+💼 GitHub: https://github.com/Mohandev2004  
+🔗 LinkedIn: https://linkedin.com/in/mohan-a-0435a338b  
+📧 Email: the.mohan2004@gmail.com  
+
+---
+
+⭐ Thanks for visiting my profile — feel free to explore my repositories and star anything you find interesting!
