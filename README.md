@@ -8,24 +8,8 @@ Currently working on **Full-Stack AI UI/UX Generator** and continuously improvin
 
 ## 🛠 Tech Stack
 
-### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,nodejs,tailwind,express,react,nextjs,docker,mongodb,mysql,aws,git,vercel" />
 </p> 
 
 ---
