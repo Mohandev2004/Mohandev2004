@@ -14,11 +14,6 @@ Currently working on **Full-Stack AI UI/UX Generator** and continuously improvin
 
 ---
 
-## 📈 GitHub Stats
-![Mohandev2004’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohandev2004&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohandev2004&layout=compact&theme=radical)
-
----
 
 ## 💼 Project Highlights
 
